@@ -144,7 +144,6 @@ These KPIs help quickly assess business performance at a glance.
 
 ## 📁 Project Structure  
 
-```text
 📦 powerbi_healthcare_project
  ┣ 📂 datasets        → Raw & processed data files
  ┣ 📂 background_image → Dashboard images & documentation
@@ -167,7 +166,7 @@ Support scalable business expansion using data-driven insights
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Planned improvements to extend this project include:
 Predictive sales forecasting using machine learning models
 Customer segmentation analysis to personalize offerings
@@ -176,7 +175,7 @@ Integration with real-time data sources for live dashboards
 
 ---
 
- 🚀Conclusion
+ ## 🚀Conclusion
 This project demonstrates how data analytics and visualization can uncover meaningful business insights from retail data.
 Blinkit Grocery Sales Dashboard provides a clear view of performance drivers and customer preferences, helping businesses make informed
 stratergic decision.
