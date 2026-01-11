@@ -74,8 +74,8 @@ The Power BI dashboard provides a **360° view of Blinkit grocery sales**, featu
 - Visual comparison across locations and outlet types  
 
 ### 📸 Dashboard Snapshot  
+![Blinkit dashboard](https://github.com/user-attachments/assets/0700c5b5-9727-487b-88ad-2e9a3b2f6a1a)
 
-(https://github.com/user-attachments/assets/5f4c71f5-9fc3-4590-a02d-8ed1e96a982b)
 
 ---
 
@@ -154,7 +154,28 @@ These KPIs help quickly assess business performance at a glance.
  ┣ 📜 README.md       → Project documentation
  ┗ 📜 LICENSE         → MIT License
 
+---
+
+💼 Business Impact
+This analysis enables decision-makers to:
+Identify high-growth locations
+Improve inventory planning
+Optimize outlet strategy
+Enhance customer satisfaction
+Support scalable business expansion
+
+---
+
+## 🚀 Future Enhancements
+Predictive sales forecasting using machine learning
+Customer segmentation analysis
+Deeper time-series analysis
+Integration with real-time data sources
+
+---
 
 ## 🚀Conclusion
-This project demonstrates how data analytics and visualization can uncover meaningful business insights from retail data. The Blinkit Grocery Sales Dashboard provides a clear view of performance drivers and customer preferences, helping businesses make informed strategic decisions.
+This project demonstrates how data analytics and visualization can uncover meaningful business insights from retail data.
+Blinkit Grocery Sales Dashboard provides a clear view of performance drivers and customer preferences, helping businesses make informed
+stratergic decision.
 
